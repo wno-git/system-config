@@ -4,7 +4,7 @@ set -euo pipefail
 
 TARGET_DISK=$1
 
-readlink --verbose "$TARGET_DISK"
+readlink --verbose --canonicalize-existing "$TARGET_DISK"
 
 lsblk
 
