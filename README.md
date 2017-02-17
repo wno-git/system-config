@@ -2,5 +2,5 @@ required packages
 ==
 
  - gdisk
- - btrfs-tools
  - dosfstools
+ - lvm2
