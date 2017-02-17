@@ -9,7 +9,7 @@ readlink --verbose "$TARGET_DISK"
 lsblk
 
 echo "Target disk: $TARGET_DISK, ok?"
-read
+read -rs
 
 # o: clear partitions
 #    Y yes
