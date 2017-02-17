@@ -1,6 +1,8 @@
-required packages
+Scripts for configuring my home systems. Nothing to see here.
+
+Bootstrapping from Debian Live Image
 ==
 
- - gdisk
- - dosfstools
- - lvm2
+ - Clone this repo, duh.
+ - sudo ./init.sh
+ - sudo ./partition.sh
