@@ -7,4 +7,4 @@ Bootstrapping from Debian Live Image
 
  - Clone this repo, duh.
  - sudo ./init.sh
- - sudo ./partition.sh
+ - sudo ./partition.sh <disk>
