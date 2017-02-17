@@ -6,8 +6,6 @@ TARGET_DISK=$1
 
 readlink --verbose --canonicalize-existing "$TARGET_DISK"
 
-lsblk
-
 echo "Target disk: $TARGET_DISK, ok?"
 read -rs
 
