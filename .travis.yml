@@ -8,4 +8,4 @@ addons:
     - shellcheck
 
 script:
-  - shellcheck init.sh partition.sh
+  - shellcheck init.sh partition.sh packages.sh
