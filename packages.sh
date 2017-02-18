@@ -43,7 +43,7 @@ packages=(
     htop
     inkscape
     iotop
-    kcachegrind
+#    kcachegrind
     libboost-all-dev
     libvirt-daemon
     mercurial
@@ -52,7 +52,7 @@ packages=(
     netcat-openbsd
     ninja-build
     octave
-    okular
+#    okular
     pdftk
     pngcrush
     pv
