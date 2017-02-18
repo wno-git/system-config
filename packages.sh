@@ -22,7 +22,7 @@ packages=(
     build-essential
     byobu
     ccache
-    chromium-browser
+    chromium
     clang
     clang-format
     clang-tidy
@@ -45,7 +45,7 @@ packages=(
     iotop
     kcachegrind
     libboost-all-dev
-    libvirt-bin
+    libvirt-daemon
     mercurial
     mpv
     mtr
