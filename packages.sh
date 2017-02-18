@@ -87,7 +87,14 @@ packages=(
     yasm
 )
 
+packages_remove=(
+    dleyna-renderer
+    minissdpd
+)
+
 
 apt update
 
 apt install --yes "${packages[@]}"
+
+apt remove --yes "${packages_remove[@]}"
