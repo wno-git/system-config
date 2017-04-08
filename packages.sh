@@ -28,6 +28,7 @@ packages=(
     clang-tidy
     cmake
     cppcheck
+    cpufrequtils
     darktable
     debian-goodies
     dia
