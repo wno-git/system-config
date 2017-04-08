@@ -44,6 +44,7 @@ packages=(
     git-annex
     gitg
     gitk
+    gstreamer1.0-plugins-bad-dbg
     htop
     inkscape
     iotop
