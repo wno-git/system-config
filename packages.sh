@@ -37,6 +37,8 @@ packages=(
     fonts-firacode
     fonts-inconsolata
     fonts-noto
+    gcc-doc
+    gdb-doc
     gimp
     git
     git-annex
