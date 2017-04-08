@@ -44,12 +44,17 @@ packages=(
     git-annex
     gitg
     gitk
+    glew-utils
     gstreamer1.0-plugins-bad-dbg
     htop
     inkscape
     iotop
 #    kcachegrind
     libboost-all-dev
+    libglew-dev
+    libsdl2-dev
+    libsdl2-doc
+    libuv1-dev
     libvirt-daemon
     mercurial
     mpv
