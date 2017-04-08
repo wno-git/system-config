@@ -33,6 +33,7 @@ packages=(
     dia
     figlet
     flac
+    fonts-firacode
     fonts-inconsolata
     fonts-noto
     gimp
