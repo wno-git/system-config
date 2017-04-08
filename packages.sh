@@ -62,6 +62,7 @@ packages=(
     qemu-kvm
     qlandkartegt
     quodlibet
+    r-recommended
     redshift
     shellcheck
     shotwell
