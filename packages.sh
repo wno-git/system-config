@@ -63,6 +63,7 @@ packages=(
     quodlibet
     redshift
     shellcheck
+    shotwell
     sloccount
     socat
     stellarium
