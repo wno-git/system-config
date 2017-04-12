@@ -50,6 +50,7 @@ packages=(
     htop
     inkscape
     iotop
+    iputils-tracepath
 #    kcachegrind
     libboost-all-dev
     libglew-dev
