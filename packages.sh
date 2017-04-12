@@ -32,6 +32,7 @@ packages=(
     darktable
     debian-goodies
     dia
+    dnsutils
     figlet
     flac
     fonts-firacode
