@@ -54,6 +54,7 @@ packages=(
 #    kcachegrind
     libboost-all-dev
     libglew-dev
+    librtmp-dev
     libsdl2-dev
     libsdl2-doc
     libuv1-dev
