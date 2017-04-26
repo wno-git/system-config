@@ -67,6 +67,7 @@ packages=(
     octave
 #    okular
     pdftk
+    pkg-mozilla-archive-keyring
     pngcrush
     pv
     python-pip
