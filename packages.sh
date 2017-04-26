@@ -34,6 +34,7 @@ packages=(
     dia
     dnsutils
     figlet
+    firefox/experimental
     flac
     fonts-firacode
     fonts-inconsolata
@@ -105,6 +106,7 @@ packages=(
 
 packages_remove=(
     dleyna-renderer
+    firefox-esr
     minissdpd
 )
 
