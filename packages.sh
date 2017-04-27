@@ -47,6 +47,7 @@ packages=(
     gitg
     gitk
     glew-utils
+    graphviz
     gstreamer1.0-plugins-bad-dbg
     htop
     inkscape
