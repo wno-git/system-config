@@ -4,6 +4,7 @@ set -euo pipefail
 
 packages=(
     abcde
+    adb
     agave
     apparmor
     apparmor-profiles
@@ -33,6 +34,7 @@ packages=(
     debian-goodies
     dia
     dnsutils
+    fastboot
     figlet
     firefox/experimental
     flac
