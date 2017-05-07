@@ -33,6 +33,7 @@ packages=(
     darktable
     debian-goodies
     dia
+    dirmngr
     dnsutils
     fastboot
     figlet
