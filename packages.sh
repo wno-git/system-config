@@ -72,6 +72,7 @@ packages=(
     octave
 #    okular
     pdftk
+    picard
     pkg-mozilla-archive-keyring
     pngcrush
     pv
