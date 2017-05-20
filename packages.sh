@@ -89,6 +89,7 @@ packages=(
     socat
     stellarium
     stow
+    strace
     subversion
     tcpdump
     terminator
