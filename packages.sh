@@ -54,6 +54,7 @@ packages=(
     gstreamer1.0-plugins-bad-dbg
     htop
     inkscape
+    inotify-tools
     iotop
     iputils-tracepath
 #    kcachegrind
