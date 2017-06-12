@@ -97,6 +97,7 @@ packages=(
     terminator
     texlive-full
     tig
+    time
     tmux
     tree
     units
