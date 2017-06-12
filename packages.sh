@@ -72,6 +72,7 @@ packages=(
     ninja-build
     octave
 #    okular
+    parallel
     pdftk
     picard
     pkg-mozilla-archive-keyring
