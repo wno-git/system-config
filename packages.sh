@@ -57,6 +57,7 @@ packages=(
     inotify-tools
     iotop
     iputils-tracepath
+    josm
 #    kcachegrind
     libboost-all-dev
     libglew-dev
