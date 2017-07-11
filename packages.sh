@@ -111,6 +111,7 @@ packages=(
     whois
     wireshark
     x264
+    xmlstarlet
     yasm
 )
 
