@@ -50,6 +50,7 @@ packages=(
     gitg
     gitk
     glew-utils
+    gpsprune
     graphviz
     gstreamer1.0-plugins-bad-dbg
     htop
