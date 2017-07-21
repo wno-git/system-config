@@ -90,6 +90,7 @@ packages=(
     shellcheck
     shotwell
     sloccount
+    smartmontools
     socat
     stellarium
     stow
