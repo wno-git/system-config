@@ -62,6 +62,7 @@ packages=(
 #    kcachegrind
     libboost-all-dev
     libglew-dev
+    libratbag-tools
     librtmp-dev
     libsdl2-dev
     libsdl2-doc
