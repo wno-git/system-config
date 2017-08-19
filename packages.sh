@@ -61,6 +61,7 @@ packages=(
     josm
 #    kcachegrind
     libboost-all-dev
+    libgl1-mesa-glx-dbgsym
     libglew-dev
     libratbag-tools
     librtmp-dev
