@@ -64,6 +64,7 @@ packages=(
     libglew-dev
     libratbag-tools
     librtmp-dev
+    libsdl2-2.0-0-dbgsym
     libsdl2-dev
     libsdl2-doc
     libuv1-dev
