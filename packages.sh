@@ -74,6 +74,7 @@ packages=(
     mpv
     mtr
     netcat-openbsd
+    neverball
     ninja-build
     octave
 #    okular
