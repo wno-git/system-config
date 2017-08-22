@@ -69,7 +69,8 @@ packages=(
     libsdl2-dev
     libsdl2-doc
     libuv1-dev
-    libvirt-daemon
+    libvirt-clients
+    libvirt-daemon-system
     mercurial
     mpv
     mtr
