@@ -37,7 +37,7 @@ packages=(
     dnsutils
     fastboot
     figlet
-    firefox/experimental
+    firefox/unstable
     flac
     fonts-firacode
     fonts-inconsolata
