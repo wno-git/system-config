@@ -63,6 +63,7 @@ packages=(
     libboost-all-dev
     libgl1-mesa-glx-dbgsym
     libglew-dev
+    libosinfo-bin
     libratbag-tools
     librtmp-dev
     libsdl2-2.0-0-dbgsym
