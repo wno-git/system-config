@@ -1,0 +1,32 @@
+packages_common=(
+    apt-listbugs
+    aptitude
+    bc
+    binwalk
+    cpufrequtils
+    debian-goodies
+    dirmngr
+    dnsutils
+    git
+    htop
+    inotify-tools
+    iotop
+    iputils-tracepath
+    mtr
+    netcat-openbsd
+    pkg-mozilla-archive-keyring
+    pv
+    python-pip
+    python-virtualenv
+    socat
+    stow
+    strace
+    tcpdump
+    terminator
+    tig
+    time
+    tmux
+    tree
+    vim
+    whois
+)

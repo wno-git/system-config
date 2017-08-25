@@ -2,7 +2,10 @@
 
 set -euo pipefail
 
+source common.inc.sh
+
 packages=(
+    ${packages_common[@]}
     abcde
     adb
     agave
@@ -10,15 +13,11 @@ packages=(
     apparmor-profiles
     apparmor-profiles-extra
     apparmor-utils
-    apt-listbugs
-    aptitude
     archivemail
     ardour
     aspell
     aspell-en
     audacity
-    bc
-    binwalk
     blender
     build-essential
     byobu
@@ -29,12 +28,8 @@ packages=(
     clang-tidy
     cmake
     cppcheck
-    cpufrequtils
     darktable
-    debian-goodies
     dia
-    dirmngr
-    dnsutils
     fastboot
     figlet
     firefox/unstable
@@ -45,7 +40,6 @@ packages=(
     gcc-doc
     gdb-doc
     gimp
-    git
     git-annex
     gitg
     gitk
@@ -53,13 +47,8 @@ packages=(
     gpsprune
     graphviz
     gstreamer1.0-plugins-bad-dbg
-    htop
     inkscape
-    inotify-tools
-    iotop
-    iputils-tracepath
     josm
-#    kcachegrind
     libboost-all-dev
     libgl1-mesa-glx-dbgsym
     libglew-dev
@@ -74,20 +63,13 @@ packages=(
     libvirt-daemon-system
     mercurial
     mpv
-    mtr
-    netcat-openbsd
     neverball
     ninja-build
     octave
-#    okular
     parallel
     pdftk
     picard
-    pkg-mozilla-archive-keyring
     pngcrush
-    pv
-    python-pip
-    python-virtualenv
     qemu-kvm
     qlandkartegt
     quodlibet
@@ -97,31 +79,22 @@ packages=(
     shotwell
     sloccount
     smartmontools
-    socat
     stellarium
-    stow
-    strace
     subversion
-    tcpdump
-    terminator
     texlive-full
-    tig
-    time
-    tmux
-    tree
     units
     upx-ucl
     valgrind
-    vim
     virt-manager
     vlc
     vorbis-tools
-    whois
     wireshark
     x264
     xalan
     xmlstarlet
     yasm
+#    kcachegrind
+#    okular
 )
 
 packages_remove=(
