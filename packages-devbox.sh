@@ -6,7 +6,6 @@ source common.inc.sh
 
 packages=(
     ${packages_common[@]}
-    apt-transport-https
     build-essential
     ccache
     clang
