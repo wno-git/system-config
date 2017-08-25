@@ -1,3 +1,5 @@
+#!/bin/bash
+
 packages_common=(
     apt-listbugs
     apt-transport-https
