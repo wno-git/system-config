@@ -4,6 +4,7 @@ set -euo pipefail
 
 packages=(
     apt-listbugs
+    apt-transport-https
     bc
     build-essential
     ccache
