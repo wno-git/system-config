@@ -62,6 +62,7 @@ packages=(
     libuv1-dev
     libvirt-clients
     libvirt-daemon-system
+    markdown
     mercurial
     mpv
     neverball
