@@ -48,6 +48,7 @@ packages=(
     graphviz
     gstreamer1.0-plugins-bad-dbg
     inkscape
+    intel-microcode
     josm
     libboost-all-dev
     libgl1-mesa-glx-dbgsym
