@@ -68,6 +68,7 @@ packages=(
     neverball
     ninja-build
     octave
+    okular
     parallel
     pdftk
     picard
@@ -96,7 +97,6 @@ packages=(
     xmlstarlet
     yasm
 #    kcachegrind
-#    okular
 )
 
 packages_remove=(
