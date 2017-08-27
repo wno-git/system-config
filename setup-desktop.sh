@@ -36,6 +36,7 @@ packages=(
     flac
     fonts-firacode
     fonts-inconsolata
+    fonts-liberation2
     fonts-noto
     gcc-doc
     gdb-doc
