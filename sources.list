@@ -23,6 +23,5 @@ deb-src http://security.debian.org/debian-security stable/updates main contrib n
 
 # Debug
 
-deb http://debug.mirrors.debian.org/debian-debug unstable-debug main
 deb http://debug.mirrors.debian.org/debian-debug testing-debug main
 deb http://debug.mirrors.debian.org/debian-debug stable-debug main
