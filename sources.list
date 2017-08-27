@@ -23,5 +23,8 @@ deb-src http://security.debian.org/debian-security stable/updates main contrib n
 
 # Debug
 
+# FIXME: Apt default release does not seem to apply to debug repositories? Not
+# adding this to prevent debug packages from unstable getting installed.
+# deb http://debug.mirrors.debian.org/debian-debug unstable-debug main
 deb http://debug.mirrors.debian.org/debian-debug testing-debug main
 deb http://debug.mirrors.debian.org/debian-debug stable-debug main
