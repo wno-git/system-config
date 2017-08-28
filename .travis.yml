@@ -8,4 +8,4 @@ addons:
     - shellcheck
 
 script:
-  - shellcheck init.sh partition.sh packages.sh
+  - shellcheck -x bootstrap-deps.sh partition.sh setup-desktop.sh setup-devbox.sh
