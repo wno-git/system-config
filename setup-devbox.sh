@@ -13,7 +13,7 @@ packages=(
     clang-tidy
     cmake
     cppcheck
-    gcc-doc
+#    gcc-doc
     gdb-doc
     glew-utils
     libboost-all-dev
