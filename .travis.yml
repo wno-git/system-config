@@ -9,3 +9,4 @@ addons:
 
 script:
   - shellcheck -x bootstrap-deps.sh partition.sh setup-desktop.sh setup-devbox.sh
+  - shellcheck -x installers/docker.sh

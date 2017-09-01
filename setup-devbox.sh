@@ -2,7 +2,10 @@
 
 set -euo pipefail
 
-source common.inc.sh
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# shellcheck source=common.inc.sh
+source "$DIR/common.inc.sh"
 
 packages=(
     ${packages_common[@]}
@@ -33,3 +36,5 @@ packages=(
 apt update
 apt full-upgrade --yes
 apt install --yes "${packages[@]}"
+
+"$DIR/installers/docker.sh"
