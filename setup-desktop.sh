@@ -96,6 +96,7 @@ packages=(
     x264
     xalan
     xmlstarlet
+    xmonad
     yasm
 #    kcachegrind
 )
