@@ -71,6 +71,7 @@ packages=(
     octave
     okular
     parallel
+    pavucontrol
     pdftk
     picard
     pngcrush
