@@ -75,6 +75,7 @@ packages=(
     pdftk
     picard
     pngcrush
+    poppler-utils
     qemu-kvm
     qlandkartegt
     quodlibet
@@ -99,6 +100,7 @@ packages=(
     xmlstarlet
     xmonad
     yasm
+    zotero-standalone
 #    kcachegrind
 )
 
