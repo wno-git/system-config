@@ -50,6 +50,7 @@ packages=(
     gstreamer1.0-plugins-bad-dbg
     inkscape
     intel-microcode
+    jabref
     josm
     libboost-all-dev
     libgl1-mesa-glx-dbgsym
