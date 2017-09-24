@@ -28,6 +28,8 @@ packages=(
     libsdl2-doc
     libuv1-dev
     ninja-build
+    sbt
+    scala
     shellcheck
     sloccount
     upx-ucl
