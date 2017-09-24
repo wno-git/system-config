@@ -16,6 +16,7 @@ packages=(
     clang-tidy
     cmake
     cppcheck
+    default-jre-headless
 #    gcc-doc
     gdb-doc
     glew-utils
