@@ -41,6 +41,7 @@ packages=(
     gcc-doc
     gdb-doc
     gimp
+    gir1.2-spice-client-gtk-3.0
     git-annex
     gitg
     gitk
