@@ -6,6 +6,7 @@ packages_common=(
     aptitude
     bc
     binwalk
+    brotli
     cpufrequtils
     debian-goodies
     dirmngr
