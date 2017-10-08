@@ -27,7 +27,10 @@ packages=(
     libsdl2-dev
     libsdl2-doc
     libuv1-dev
+    mc
+    neovim
     ninja-build
+    nmap
     scala
     shellcheck
     sloccount
