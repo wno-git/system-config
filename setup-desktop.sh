@@ -53,6 +53,7 @@ packages=(
     intel-microcode
     jabref
     josm
+    lightdm
     libboost-all-dev
     libgdk-pixbuf2.0-bin # missing dependency in debian unstable
     libgl1-mesa-glx-dbgsym
