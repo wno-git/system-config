@@ -11,7 +11,8 @@ packages=(
     agave
     apparmor
     apparmor-profiles
-    apparmor-profiles-extra
+# bug: usr.bin.totem profile bad
+#    apparmor-profiles-extra
     apparmor-utils
     archivemail
     ardour
