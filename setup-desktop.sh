@@ -86,6 +86,7 @@ packages=(
     quodlibet
     r-recommended
     redshift
+    schism
     shellcheck
     shotwell
     sloccount
