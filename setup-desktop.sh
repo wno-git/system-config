@@ -70,6 +70,7 @@ packages=(
     libvirt-daemon-system
     markdown
     mercurial
+    milkytracker
     mpv
     neverball
     ninja-build
