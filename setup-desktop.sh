@@ -94,6 +94,7 @@ packages=(
     stellarium
     subversion
     texlive-full
+    timidity
     units
     upx-ucl
     valgrind
