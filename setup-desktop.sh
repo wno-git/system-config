@@ -30,6 +30,7 @@ packages=(
     cmake
     cppcheck
     darktable
+    deborphan
     dia
     fastboot
     figlet
