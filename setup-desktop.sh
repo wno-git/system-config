@@ -32,6 +32,7 @@ packages=(
     darktable
     deborphan
     dia
+    ethtool
     fastboot
     figlet
     firefox/unstable
