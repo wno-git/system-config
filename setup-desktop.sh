@@ -77,6 +77,7 @@ packages=(
     neverball
     ninja-build
     octave
+    offlineimap
     okular
     parallel
     pavucontrol
