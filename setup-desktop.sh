@@ -14,6 +14,7 @@ packages=(
 # bug: usr.bin.totem profile bad
 #    apparmor-profiles-extra
     apparmor-utils
+    apt-show-versions
     archivemail
     ardour
     aspell
