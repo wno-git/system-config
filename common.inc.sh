@@ -9,6 +9,7 @@ packages_common=(
     brotli
     cpufrequtils
     debian-goodies
+    debian-keyring
     dirmngr
     dnsutils
     git
