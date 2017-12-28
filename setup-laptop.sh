@@ -9,10 +9,21 @@ packages=(
     apparmor
     apparmor-profiles
     apparmor-utils
+    audacity
+    build-essential
     byobu
+    chromium
+    darktable
     firefox/unstable
+    fonts-liberation2
+    gimp
     intel-microcode
+    mpv
+    shellcheck
     smartmontools
+    ufw
+    vlc
+    wireshark
 )
 
 packages_remove=(
