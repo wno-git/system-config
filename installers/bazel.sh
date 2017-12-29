@@ -6,8 +6,8 @@ DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 apt-key add "$DIR/bazel.gpg"
 
-add-apt-repository \
-   "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8"
+echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8" \
+    > /etc/apt/sources.list.d/bazel.list
 
 apt update
 
