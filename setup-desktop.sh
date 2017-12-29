@@ -74,6 +74,7 @@ packages=(
     octave
     offlineimap
     okular
+    openjdk-8-jdk
     parallel
     pavucontrol
     pdftk
