@@ -83,6 +83,7 @@ packages=(
     poppler-utils
     qemu-kvm
     qlandkartegt
+    qt5-default
     quodlibet
     r-recommended
     redshift
