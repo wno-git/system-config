@@ -9,6 +9,7 @@ packages=(
     apparmor
     apparmor-profiles
     apparmor-utils
+    apt-show-versions
     audacity
     build-essential
     byobu
