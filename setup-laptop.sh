@@ -14,6 +14,7 @@ packages=(
     build-essential
     byobu
     chromium
+    cups
     darktable
     firefox/unstable
     fonts-liberation2
