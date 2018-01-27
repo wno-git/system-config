@@ -45,6 +45,7 @@ packages=(
     gitg
     gitk
     glew-utils
+    gnome-control-center
     gpsprune
     graphviz
     gstreamer1.0-plugins-bad-dbg
