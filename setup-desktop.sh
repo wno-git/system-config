@@ -89,6 +89,7 @@ packages=(
     r-recommended
     redshift
     schism
+    scribus
     shotwell
     sloccount
     smartmontools
