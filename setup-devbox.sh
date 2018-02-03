@@ -15,6 +15,7 @@ packages=(
     clang-tidy
     cmake
     cppcheck
+    criu
     default-jre-headless
 #    gcc-doc
     gdb-doc
