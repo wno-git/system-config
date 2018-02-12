@@ -21,8 +21,11 @@ packages=(
     gimp
     intel-microcode
     mpv
+    neovim
+    ninja-build
     shellcheck
     smartmontools
+    texlive-full
     ufw
     vlc
     wireshark
