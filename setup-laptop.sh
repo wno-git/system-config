@@ -6,12 +6,7 @@ source common.inc.sh
 
 packages=(
     ${packages_common[@]}
-    apparmor
-    apparmor-profiles
-    apparmor-utils
-    apt-show-versions
     audacity
-    build-essential
     byobu
     chromium
     cups
@@ -21,9 +16,6 @@ packages=(
     gimp
     intel-microcode
     mpv
-    neovim
-    ninja-build
-    shellcheck
     smartmontools
     texlive-full
     ufw

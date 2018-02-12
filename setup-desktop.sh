@@ -9,19 +9,14 @@ packages=(
     abcde
     adb
     agave
-    apparmor
-    apparmor-profiles
 # bug: usr.bin.totem profile bad
 #    apparmor-profiles-extra
-    apparmor-utils
-    apt-show-versions
     archivemail
     ardour
     aspell
     aspell-en
     audacity
     blender
-    build-essential
     byobu
     ccache
     chromium
@@ -76,7 +71,6 @@ packages=(
     milkytracker
     mpv
     neverball
-    ninja-build
     octave
     offlineimap
     okular
@@ -92,7 +86,6 @@ packages=(
     r-recommended
     redshift
     schism
-    shellcheck
     shotwell
     sloccount
     smartmontools

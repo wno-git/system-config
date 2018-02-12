@@ -9,7 +9,6 @@ source "$DIR/common.inc.sh"
 
 packages=(
     ${packages_common[@]}
-    build-essential
     ccache
     clang
     clang-format
@@ -28,11 +27,8 @@ packages=(
     libsdl2-doc
     libuv1-dev
     mc
-    neovim
-    ninja-build
     nmap
     scala
-    shellcheck
     sloccount
     upx-ucl
     valgrind

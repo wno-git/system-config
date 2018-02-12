@@ -1,12 +1,17 @@
 #!/bin/bash
 
 packages_common=(
+    apparmor
+    apparmor-profiles
+    apparmor-utils
     apt-listbugs
+    apt-show-versions
     apt-transport-https
     aptitude
     bc
     binwalk
     brotli
+    build-essential
     cpufrequtils
     debian-goodies
     debian-keyring
@@ -17,7 +22,10 @@ packages_common=(
     inotify-tools
     iotop
     iputils-tracepath
+    ninja-build
+    shellcheck
     mtr
+    neovim
     netcat-openbsd
     pkg-mozilla-archive-keyring
     pv
