@@ -40,6 +40,5 @@ packages_common=(
     time
     tmux
     tree
-    vim
     whois
 )
