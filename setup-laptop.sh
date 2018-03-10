@@ -15,10 +15,15 @@ packages=(
     fonts-liberation2
     gimp
     intel-microcode
+    libvirt-clients
+    libvirt-daemon-system
     mpv
+    qemu-kvm
     smartmontools
     texlive-full
     ufw
+    virt-manager
+    virtinst
     vlc
     wireshark
 )
