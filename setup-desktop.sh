@@ -50,6 +50,7 @@ packages=(
     graphviz
     gstreamer1.0-plugins-bad-dbg
     inkscape
+    intel-gpu-tools
     intel-microcode
     jabref
     josm
