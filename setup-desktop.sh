@@ -87,6 +87,7 @@ packages=(
     qlandkartegt
     qt5-default
     quodlibet
+    r-cran-ggplot2
     r-recommended
     redshift
     schism
