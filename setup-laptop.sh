@@ -19,6 +19,8 @@ packages=(
     libvirt-daemon-system
     mpv
     qemu-kvm
+    r-base
+    r-cran-ggplot2
     smartmontools
     texlive-full
     ufw
