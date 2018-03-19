@@ -21,6 +21,7 @@ packages=(
     qemu-kvm
     r-base
     r-cran-ggplot2
+    rsync
     smartmontools
     texlive-full
     ufw
