@@ -20,6 +20,7 @@ packages=(
 #    gcc-doc
     gdb-doc
     glew-utils
+    golang-go
     libboost-all-dev
     libgl1-mesa-glx-dbgsym
     libglew-dev
