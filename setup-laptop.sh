@@ -7,6 +7,7 @@ source common.inc.sh
 packages=(
     ${packages_common[@]}
     audacity
+    borgbackup
     byobu
     chromium
     cups
