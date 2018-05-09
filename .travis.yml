@@ -1,11 +1,8 @@
 language: bash
 
-addons:
-  apt:
-    sources:
-    - debian-sid
-    packages:
-    - shellcheck
+before_install:
+    - sudo apt-get -qq update
+    - sudo apt-get install -y shellcheck
 
 script:
   - shellcheck -x bootstrap-deps.sh partition.sh setup-desktop.sh setup-devbox.sh
