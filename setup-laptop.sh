@@ -30,6 +30,7 @@ packages=(
     virtinst
     vlc
     wireshark
+    xfonts-terminus
 )
 
 packages_remove=(
