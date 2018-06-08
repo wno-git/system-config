@@ -20,6 +20,7 @@ packages=(
     libvirt-daemon-system
     mpv
     qemu-kvm
+    qt4-dev-tools
     r-base
     r-cran-ggplot2
     rsync
