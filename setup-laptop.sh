@@ -18,6 +18,7 @@ packages=(
     intel-microcode
     libvirt-clients
     libvirt-daemon-system
+    mesa-utils
     mpv
     qemu-kvm
     qt4-dev-tools
