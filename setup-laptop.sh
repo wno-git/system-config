@@ -16,6 +16,10 @@ packages=(
     fonts-liberation2
     gimp
     intel-microcode
+    libboost-all-dev
+    libglew-dev
+    libsdl2-dev
+    libuv1-dev
     libvirt-clients
     libvirt-daemon-system
     mesa-utils
