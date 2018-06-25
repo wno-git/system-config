@@ -22,7 +22,8 @@ packages=(
     glew-utils
     golang-go
     libboost-all-dev
-    libgl1-mesa-glx-dbgsym
+# broken in debian testing
+#    libgl1-mesa-glx-dbgsym
     libglew-dev
     libsdl2-2.0-0-dbgsym
     libsdl2-dev
