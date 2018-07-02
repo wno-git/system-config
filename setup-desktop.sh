@@ -38,6 +38,7 @@ packages=(
     fonts-inconsolata
     fonts-liberation2
     fonts-noto
+    ftp
     gcc-doc
     gdb-doc
     gimp
