@@ -87,6 +87,7 @@ packages=(
     poppler-utils
     qemu-kvm
     qlandkartegt
+    qrencode
     qt5-default
     quodlibet
     r-cran-ggplot2
