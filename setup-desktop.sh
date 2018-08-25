@@ -58,7 +58,7 @@ packages=(
     josm
     libboost-all-dev
     libgdk-pixbuf2.0-bin # missing dependency in debian unstable
-    libgl1-mesa-glx-dbgsym
+#    libgl1-mesa-glx-dbgsym # the dependencies of this are broken in testing
     libglew-dev
     libosinfo-bin
     libratbag-tools
