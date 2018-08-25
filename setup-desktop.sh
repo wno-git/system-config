@@ -70,6 +70,7 @@ packages=(
     libuv1-dev
     libvirt-clients
     libvirt-daemon-system
+    libwayland-dev
     markdown
     mercurial
     milkytracker
@@ -108,6 +109,8 @@ packages=(
     virt-manager
     vlc
     vorbis-tools
+    wayland-protocols
+    weston
     wireshark
     x264
     xalan
