@@ -70,6 +70,7 @@ packages=(
     libvirt-clients
     libvirt-daemon-system
     libwayland-dev
+    libwayland-egl-backend-dev
     lightdm
     markdown
     mercurial
