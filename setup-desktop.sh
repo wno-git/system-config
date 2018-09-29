@@ -107,6 +107,7 @@ packages=(
     units
     upx-ucl
     valgrind
+    vbindiff
     virt-manager
     vlc
     vorbis-tools
