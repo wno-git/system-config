@@ -81,6 +81,7 @@ packages=(
     offlineimap
     okular
     openjdk-8-jdk
+    pandoc
     parallel
     pavucontrol
     pdftk
