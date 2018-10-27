@@ -20,6 +20,7 @@ packages=(
 #    gcc-doc
     gdb-doc
     glew-utils
+    golang
     golang-go
     libboost-all-dev
 # broken in debian testing
