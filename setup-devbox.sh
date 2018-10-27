@@ -32,6 +32,8 @@ packages=(
     libuv1-dev
     mc
     nmap
+    nodejs
+    npm
     scala
     sloccount
     upx-ucl
