@@ -106,6 +106,7 @@ packages=(
     texlive-full
     timidity
     units
+    unrar
     upx-ucl
     valgrind
     vbindiff
