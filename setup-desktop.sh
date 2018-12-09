@@ -16,6 +16,7 @@ packages=(
     aspell
     aspell-en
     audacity
+    base58
     blender
     borgbackup
     byobu
