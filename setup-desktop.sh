@@ -57,7 +57,7 @@ packages=(
     intel-microcode
     jabref
     josm
-    libboost-all-dev
+#    libboost-all-dev # dependencies broken, not needed
     libgdk-pixbuf2.0-bin # missing dependency in debian unstable
 #    libgl1-mesa-glx-dbgsym # the dependencies of this are broken in testing
     libglew-dev
