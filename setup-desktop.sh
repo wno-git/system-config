@@ -34,6 +34,7 @@ packages=(
     fastboot
     figlet
     firefox/unstable
+    firmware-amd-graphics
     flac
     fonts-firacode
     fonts-inconsolata
