@@ -17,6 +17,7 @@ packages=(
     cppcheck
     criu
     default-jre-headless
+    docker.io
 #    gcc-doc
     gdb-doc
     glew-utils
