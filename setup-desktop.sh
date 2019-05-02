@@ -17,6 +17,7 @@ packages=(
     aspell-en
     audacity
     blender
+    borgbackup
     byobu
     ccache
     chromium
