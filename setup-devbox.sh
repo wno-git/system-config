@@ -39,6 +39,7 @@ packages=(
     sloccount
     upx-ucl
     valgrind
+    wayland-protocols
 )
 
 apt update
